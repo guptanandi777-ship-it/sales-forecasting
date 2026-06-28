@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,MAPE%
+Baseline (52-wk MA),226.1,263.6,-0.0861,30.06
+Linear Regression,86.2,104.4,0.8295,10.78
+Random Forest,106.3,130.6,0.7331,12.97
+Gradient Boosting,110.7,141.7,0.6862,13.34
