@@ -2,7 +2,7 @@
 =============================================================
   PROJECT: Sales Forecasting
   Goal   : Predict future sales from historical time-series data
-  Author : [Your Name]
+  Author : Nandani Kumari
   Models : Moving Average Baseline · Linear Trend · Random Forest
   Dataset: Synthetic retail dataset (generated in-script)
 =============================================================
